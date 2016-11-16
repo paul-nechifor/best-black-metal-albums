@@ -1,0 +1,69 @@
+album-size = 150px
+
+*
+  margin 0
+  padding 0
+  border-collapse inherit
+  font-size 100%
+
+html
+  box-sizing border-box
+  line-height 1
+  font-family sans-serif
+  background #000
+
+h1
+  height 165px
+  background-image url(title.png)
+  background-position center center
+  background-repeat no-repeat
+  text-indent -9999px
+  margin 0
+
+// body
+//   position relative
+
+// ul, ol, menu
+//   list-style none
+
+// a
+//   color inherit
+
+.albums
+  text-align center
+  font-size 0
+
+.album
+  background-size cover
+  display inline-block
+  filter saturate(0%) brightness(90%)
+  height album-size
+  width album-size
+  margin 10px
+  position relative
+
+  & > a
+    font-size 20px
+    display none
+    position absolute
+    color #fff
+    background #000
+    width 35px
+    height 35px
+    line-height 35px
+    text-align center
+
+  &:hover > a
+    display block
+
+// a.youtube-link
+//   left 0
+//   top 0
+
+// a.em-link
+//   right 0
+//   top 0
+
+// a.buy-link
+//   left 0
+//   bottom 0
