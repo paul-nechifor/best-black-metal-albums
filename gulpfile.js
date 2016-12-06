@@ -69,7 +69,8 @@ function getAlbumCover(album, cb) {
     );
     gm(stringToStream(data), album.id + '.jpg')
     .resize(albumSize, albumSize)
-    .modulate(100, 0)
+    .gamma(1.3)
+    .quality(90)
     .write(imagePath, cb);
   });
 }

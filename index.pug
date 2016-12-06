@@ -2,13 +2,18 @@ doctype html
 html(lang='en')
   head
     title= title
+    meta(charset='utf-8')
+    meta(name='viewport' content='width=device-width, initial-scale=1.0')
     link(href='/style.css' rel='stylesheet')
   body
-    h1= title
+    h1: a(href='/')= title
 
     .albums
       each album in albums
-        .album(style='background-image: url("/covers/' + album.id + '.jpg")')
-          a.youtube-link: i.fa.fa-youtube-play(href='https://www.youtube.com/results?search_query=' + album.band + ' ' + album.name + ' full album')
-          a.em-link: i.fa.fa-book(href=album.emUrl)
-          a.buy-link: i.fa.fa-amazon(href='https://www.amazon.com/s/?field-keywords=' + album.band + ' ' + album.name)
+        a.album(
+          style='background-image: url("/covers/' + album.id + '.jpg")'
+          alt=album.band + ' — ' + album.name
+          title=album.band + ' — ' + album.name
+          href='https://www.youtube.com/results?search_query=' +
+          album.band + ' ' + album.name + ' full album'
+        )
