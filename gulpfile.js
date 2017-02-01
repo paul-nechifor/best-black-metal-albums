@@ -1,13 +1,14 @@
+var Spritesmith = require('spritesmith');
 var async = require('async');
 var fs = require('fs');
+var gm = require('gm').subClass({imageMagick: true});
 var gulp = require('gulp');
 var path = require('path');
 var pug = require('gulp-pug');
 var request = require('throttled-request')(require('request'));
+var stringToStream = require('string-to-stream');
 var stylus = require('gulp-stylus');
 var webserver = require('gulp-webserver');
-var gm = require('gm').subClass({imageMagick: true});
-var stringToStream = require('string-to-stream');
 
 request.configure({requests: 5, milliseconds: 1000});
 
@@ -47,7 +48,27 @@ gulp.task('webserver', function () {
 });
 
 gulp.task('get-covers', function (cb) {
-  async.map(getAlbums(), getAlbumCover, cb);
+  async.eachSeries(getAlbums(), getAlbumCover, cb);
+});
+
+gulp.task('create-sprite', function (cb) {
+  var dir = 'build/covers';
+  fs.readdir(dir, function (err, images) {
+    if (err) {
+      return cb(err);
+    }
+    images = images.map(function (x) {
+      return path.join(dir, x);
+    });
+    Spritesmith.run({src: images}, function (err, result) {
+      if (err) {
+        return cb(err);
+      }
+      gm(stringToStream(result.image), 'covers.jpg')
+      .quality(85)
+      .write('build/covers.jpg', cb);
+    });
+  });
 });
 
 function getAlbums() {
@@ -70,7 +91,8 @@ function getAlbumCover(album, cb) {
     gm(stringToStream(data), album.id + '.jpg')
     .resize(albumSize, albumSize)
     .gamma(1.3)
-    .quality(90)
+    .modulate(100, 0, 100)
+    .quality(100)
     .write(imagePath, cb);
   });
 }

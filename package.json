@@ -5,7 +5,8 @@
     "postinstall": "mkdir -p build/covers",
     "build": "gulp build",
     "start": "gulp",
-    "get-covers": "gulp get-covers"
+    "get-covers": "gulp get-covers",
+    "create-sprite": "gulp create-sprite"
   },
   "dependencies": {
     "async": "^2.1.4",
@@ -15,6 +16,7 @@
     "gulp-stylus": "^2.6.0",
     "gulp-webserver": "^0.9.1",
     "request": "^2.79.0",
+    "spritesmith": "^3.1.0",
     "string-to-stream": "^1.1.0",
     "throttled-request": "^0.1.1"
   }
