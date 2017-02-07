@@ -5755,6 +5755,11 @@
       "version": "0.1.1",
       "from": "throttled-request@>=0.1.1 <0.2.0",
       "resolved": "https://registry.npmjs.org/throttled-request/-/throttled-request-0.1.1.tgz"
+    },
+    "underscore": {
+      "version": "1.8.3",
+      "from": "underscore@*",
+      "resolved": "https://registry.npmjs.org/underscore/-/underscore-1.8.3.tgz"
     }
   }
 }

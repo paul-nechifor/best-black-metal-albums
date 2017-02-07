@@ -11,9 +11,11 @@ html(lang='en')
     .albums
       each album in albums
         a.album(
-          style='background-image: url("/covers/' + album.id + '.jpg")'
           alt=album.band + ' — ' + album.name
           title=album.band + ' — ' + album.name
           href='https://www.youtube.com/results?search_query=' +
           album.band + ' ' + album.name + ' full album'
+          style='background-image: url("/covers.jpg");' +
+          'background-position: -' + album.coords.x + 'px -' +
+          album.coords.y + 'px'
         )

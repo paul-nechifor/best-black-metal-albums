@@ -1,4 +1,5 @@
 var Spritesmith = require('spritesmith');
+var _ = require('underscore');
 var async = require('async');
 var fs = require('fs');
 var gm = require('gm').subClass({imageMagick: true});
@@ -13,14 +14,15 @@ var webserver = require('gulp-webserver');
 request.configure({requests: 5, milliseconds: 1000});
 
 var albumSize = 150;
+var coversFile = path.resolve(__dirname, 'covers.json');
 
 gulp.task('default', ['build', 'webserver', 'watch']);
 
 gulp.task('build', ['html', 'style', 'title']);
 
 gulp.task('watch', function () {
-    gulp.watch('index.pug', ['html']);
-    gulp.watch('style.styl', ['style']);
+  gulp.watch('index.pug', ['html']);
+  gulp.watch('style.styl', ['style']);
 });
 
 gulp.task('html', function () {
@@ -52,7 +54,7 @@ gulp.task('get-covers', function (cb) {
 });
 
 gulp.task('create-sprite', function (cb) {
-  var dir = 'build/covers';
+  var dir = 'covers';
   fs.readdir(dir, function (err, images) {
     if (err) {
       return cb(err);
@@ -64,6 +66,17 @@ gulp.task('create-sprite', function (cb) {
       if (err) {
         return cb(err);
       }
+      var coord = {};
+
+      _.each(result.coordinates, function (v, k) {
+        var splits = k.split('/');
+        coord[splits[splits.length - 1].split('.')[0]] = v;
+      });
+
+      fs.writeFileSync(
+        coversFile, JSON.stringify(coord)
+      );
+
       gm(stringToStream(result.image), 'covers.jpg')
       .quality(85)
       .write('build/covers.jpg', cb);
@@ -72,10 +85,12 @@ gulp.task('create-sprite', function (cb) {
 });
 
 function getAlbums() {
+  var coords = JSON.parse(fs.readFileSync(coversFile, 'utf8'));
   return JSON.parse(fs.readFileSync(
     path.resolve(__dirname, 'albums.json'), 'utf8'
   )).map(function (x) {
     x.id = getImageId(x.cover);
+    x.coords = coords[x.id];
     return x;
   });
 }
@@ -86,13 +101,14 @@ function getAlbumCover(album, cb) {
       return cb(err);
     }
     var imagePath = path.resolve(
-      __dirname, 'build', 'covers', album.id + '.jpg'
+      __dirname, 'covers', album.id + '.jpg'
     );
     gm(stringToStream(data), album.id + '.jpg')
     .resize(albumSize, albumSize)
     .gamma(1.3)
     .modulate(100, 0, 100)
     .quality(100)
+    .resize(albumSize, albumSize, '!')
     .write(imagePath, cb);
   });
 }
