@@ -1,6 +1,7 @@
 # Best Black Metal Albums
 
-A page listing possibly the best black metal albums.
+A page listing possibly the best black metal albums based on [Encyclopædia
+Metallum][em].
 
 ## Usage
 
@@ -23,3 +24,5 @@ Build, serve content, watch and rebuild:
 ## License
 
 ISC
+
+[em]: http://www.metal-archives.com/
