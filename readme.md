@@ -3,6 +3,8 @@
 A page listing possibly the best black metal albums based on [Encyclopædia
 Metallum][em].
 
+The list was created with [Best Metal Albums][bma].
+
 ## Usage
 
 Install the requirements:
@@ -26,3 +28,4 @@ Build, serve content, watch and rebuild:
 ISC
 
 [em]: http://www.metal-archives.com/
+[bma]: https://github.com/paul-nechifor/best-metal-albums
