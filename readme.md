@@ -23,6 +23,10 @@ Build, serve content, watch and rebuild:
 
     npm start
 
+## TODO
+
+- Don't use sprites. It was a bad idea.
+
 ## License
 
 ISC
