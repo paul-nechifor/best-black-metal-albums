@@ -139,10 +139,6 @@
     "cover": "http://www.metal-archives.com/images/1/9/2/2/192246.jpg",
     "logo": "http://www.metal-archives.com/images/1/3/7/4/13746_logo.jpg?2303"
   },
-
-
-
-
   {
     "band": "Leviathan",
     "emUrl": "http://www.metal-archives.com/bands/Leviathan/9562",
@@ -162,16 +158,6 @@
     "actualScore": 89.96,
     "cover": "http://www.metal-archives.com/images/2/3/9/239.jpg?2956",
     "logo": "http://www.metal-archives.com/images/7/5/75_logo.jpg?2757"
-  },
-  {
-    "band": "Celtic Frost",
-    "emUrl": "http://www.metal-archives.com/bands/Celtic_Frost/269",
-    "name": "To Mega Therion",
-    "year": "1985",
-    "score": 96.2,
-    "actualScore": 93.7,
-    "cover": "http://www.metal-archives.com/images/1/5/2/4/1524.jpeg?1050",
-    "logo": "http://www.metal-archives.com/images/2/6/9/269_logo.jpg?2546"
   },
   {
     "band": "Blut aus Nord",
@@ -224,16 +210,6 @@
     "logo": "http://www.metal-archives.com/images/2/3/7/1/2371_logo.gif"
   },
   {
-    "band": "Moonsorrow",
-    "emUrl": "http://www.metal-archives.com/bands/Moonsorrow/89",
-    "name": "Voimasta ja kunniasta",
-    "year": "2001",
-    "score": 95.8,
-    "actualScore": 93.3,
-    "cover": "http://www.metal-archives.com/images/3/7/0/370.jpg?0358",
-    "logo": "http://www.metal-archives.com/images/8/9/89_logo.jpg"
-  },
-  {
     "band": "I",
     "emUrl": "http://www.metal-archives.com/bands/I/77619",
     "name": "Between Two Worlds",
@@ -264,16 +240,6 @@
     "logo": "http://www.metal-archives.com/images/2/8/9/0/28907_logo.jpg?0423"
   },
   {
-    "band": "Cradle of Filth",
-    "emUrl": "http://www.metal-archives.com/bands/Cradle_of_Filth/24",
-    "name": "Dusk and Her Embrace",
-    "year": "1996",
-    "score": 95.10526315789474,
-    "actualScore": 90.10526315789474,
-    "cover": "http://www.metal-archives.com/images/6/8/68.jpg?1853",
-    "logo": "http://www.metal-archives.com/images/2/4/24_logo.png?5007"
-  },
-  {
     "band": "Taake",
     "emUrl": "http://www.metal-archives.com/bands/Taake/370",
     "name": "Nattestid ser porten vid",
@@ -284,26 +250,6 @@
     "logo": "http://www.metal-archives.com/images/3/7/0/370_logo.jpg?0554"
   },
   {
-    "band": "Triptykon",
-    "emUrl": "http://www.metal-archives.com/bands/Triptykon/3540303132",
-    "name": "Eparistera Daimones",
-    "year": "2010",
-    "score": 94.9,
-    "actualScore": 92.4,
-    "cover": "http://www.metal-archives.com/images/2/6/8/2/268213.jpg",
-    "logo": "http://www.metal-archives.com/images/3/5/4/0/3540303132_logo.png?4049"
-  },
-  {
-    "band": "Triptykon",
-    "emUrl": "http://www.metal-archives.com/bands/Triptykon/3540303132",
-    "name": "Eparistera Daimones – The Complete Sessions",
-    "year": "2010",
-    "score": 94.9,
-    "actualScore": 92.4,
-    "cover": "http://www.metal-archives.com/images/2/8/8/1/288104.jpg",
-    "logo": "http://www.metal-archives.com/images/3/5/4/0/3540303132_logo.png?4049"
-  },
-  {
     "band": "Lurker of Chalice",
     "emUrl": "http://www.metal-archives.com/bands/Lurker_of_Chalice/37266",
     "name": "Lurker of Chalice",
@@ -312,16 +258,6 @@
     "actualScore": 92.3,
     "cover": "http://www.metal-archives.com/images/8/4/9/4/84940.jpg",
     "logo": "http://www.metal-archives.com/images/3/7/2/6/37266_logo.gif"
-  },
-  {
-    "band": "Cradle of Filth",
-    "emUrl": "http://www.metal-archives.com/bands/Cradle_of_Filth/24",
-    "name": "V Empire or Dark Faerytales in Phallustein",
-    "year": "1996",
-    "score": 94.7,
-    "actualScore": 92.2,
-    "cover": "http://www.metal-archives.com/images/6/6/66.jpg?4825",
-    "logo": "http://www.metal-archives.com/images/2/4/24_logo.png?5007"
   },
   {
     "band": "Blut aus Nord",
@@ -342,16 +278,6 @@
     "actualScore": 89.15,
     "cover": "http://www.metal-archives.com/images/2/8/5/0/285013.jpg",
     "logo": "http://www.metal-archives.com/images/4/2/3/7/4237_logo.jpg?3717"
-  },
-  {
-    "band": "Samael",
-    "emUrl": "http://www.metal-archives.com/bands/Samael/31",
-    "name": "Solar Soul",
-    "year": "2007",
-    "score": 94.11363636363636,
-    "actualScore": 91.36363636363636,
-    "cover": "http://www.metal-archives.com/images/1/4/9/6/149603.jpg?2400",
-    "logo": "http://www.metal-archives.com/images/3/1/31_logo.png?3426"
   },
   {
     "band": "Darkspace",
@@ -514,16 +440,6 @@
     "logo": "http://www.metal-archives.com/images/1/3/1/4/1314_logo.png?0253"
   },
   {
-    "band": "Woods of Ypres",
-    "emUrl": "http://www.metal-archives.com/bands/Woods_of_Ypres/1555",
-    "name": "Woods 5: Grey Skies & Electric Light",
-    "year": "2012",
-    "score": 92.93181818181819,
-    "actualScore": 90.18181818181819,
-    "cover": "http://www.metal-archives.com/images/3/2/5/8/325868.jpg?1338",
-    "logo": "http://www.metal-archives.com/images/1/5/5/5/1555_logo.jpg?4241"
-  },
-  {
     "band": "Anaal Nathrakh",
     "emUrl": "http://www.metal-archives.com/bands/Anaal_Nathrakh/1314",
     "name": "Hell Is Empty, and All the Devils Are Here",
@@ -562,16 +478,6 @@
     "actualScore": 89.14285714285714,
     "cover": "http://www.metal-archives.com/images/2/3/3/0/2330.jpg",
     "logo": "http://www.metal-archives.com/images/7/7/0/770_logo.jpg"
-  },
-  {
-    "band": "Arcturus",
-    "emUrl": "http://www.metal-archives.com/bands/Arcturus/292",
-    "name": "The Sham Mirrors",
-    "year": "2002",
-    "score": 92.64285714285714,
-    "actualScore": 89.14285714285714,
-    "cover": "http://www.metal-archives.com/images/1/1/2/8/1128.jpg?3436",
-    "logo": "http://www.metal-archives.com/images/2/9/2/292_logo.jpg?5951"
   },
   {
     "band": "Fen",
@@ -764,16 +670,6 @@
     "logo": "http://www.metal-archives.com/images/1/9/5/2/1952_logo.jpg"
   },
   {
-    "band": "Moonsorrow",
-    "emUrl": "http://www.metal-archives.com/bands/Moonsorrow/89",
-    "name": "V: Hävitetty",
-    "year": "2007",
-    "score": 91,
-    "actualScore": 88,
-    "cover": "http://www.metal-archives.com/images/1/3/7/6/137685.jpg?3011",
-    "logo": "http://www.metal-archives.com/images/8/9/89_logo.jpg"
-  },
-  {
     "band": "Immortal",
     "emUrl": "http://www.metal-archives.com/bands/Immortal/75",
     "name": "Sons of Northern Darkness",
@@ -783,6 +679,14 @@
     "cover": "http://www.metal-archives.com/images/2/4/1/241.jpg?1241",
     "logo": "http://www.metal-archives.com/images/7/5/75_logo.jpg?2757"
   },
+
+
+
+
+
+
+
+
   {
     "band": "Belphegor",
     "emUrl": "http://www.metal-archives.com/bands/Belphegor/1952",
@@ -2852,645 +2756,5 @@
     "actualScore": 69,
     "cover": "http://www.metal-archives.com/images/4/2/9/429.jpg",
     "logo": "http://www.metal-archives.com/images/6/9/69_logo.jpg?0615"
-  },
-  {
-    "band": "Emperor",
-    "emUrl": "http://www.metal-archives.com/bands/Emperor/30",
-    "name": "IX Equilibrium",
-    "year": "1999",
-    "score": 72.5,
-    "actualScore": 69.5,
-    "cover": "http://www.metal-archives.com/images/9/6/96.jpg?2353",
-    "logo": "http://www.metal-archives.com/images/3/0/30_logo.png?3757"
-  },
-  {
-    "band": "Darkthrone",
-    "emUrl": "http://www.metal-archives.com/bands/Darkthrone/146",
-    "name": "Total Death",
-    "year": "1996",
-    "score": 72.47727272727273,
-    "actualScore": 69.72727272727273,
-    "cover": "http://www.metal-archives.com/images/2/6/0/2/2602.jpg?3017",
-    "logo": "http://www.metal-archives.com/images/1/4/6/146_logo.jpg?5918"
-  },
-  {
-    "band": "Cradle of Filth",
-    "emUrl": "http://www.metal-archives.com/bands/Cradle_of_Filth/24",
-    "name": "The Manticore and Other Horrors",
-    "year": "2012",
-    "score": 72,
-    "actualScore": 70,
-    "cover": "http://www.metal-archives.com/images/3/5/1/3/351360.jpg?0901",
-    "logo": "http://www.metal-archives.com/images/2/4/24_logo.png?5007"
-  },
-  {
-    "band": "Cradle of Filth",
-    "emUrl": "http://www.metal-archives.com/bands/Cradle_of_Filth/24",
-    "name": "Damnation and a Day",
-    "year": "2003",
-    "score": 72,
-    "actualScore": 69.5,
-    "cover": "http://www.metal-archives.com/images/1/5/3/9/15392.jpg?0721",
-    "logo": "http://www.metal-archives.com/images/2/4/24_logo.png?5007"
-  },
-  {
-    "band": "Dimmu Borgir",
-    "emUrl": "http://www.metal-archives.com/bands/Dimmu_Borgir/69",
-    "name": "For all tid",
-    "year": "1995",
-    "score": 71.875,
-    "actualScore": 65.875,
-    "cover": "http://www.metal-archives.com/images/3/3/6/336.jpg?1602",
-    "logo": "http://www.metal-archives.com/images/6/9/69_logo.jpg?0615"
-  },
-  {
-    "band": "Abigor",
-    "emUrl": "http://www.metal-archives.com/bands/Abigor/1066",
-    "name": "Fractal Possession",
-    "year": "2007",
-    "score": 71.875,
-    "actualScore": 69.875,
-    "cover": "http://www.metal-archives.com/images/1/4/7/2/147277.jpg",
-    "logo": "http://www.metal-archives.com/images/1/0/6/6/1066_logo.png?4337"
-  },
-  {
-    "band": "Darkthrone",
-    "emUrl": "http://www.metal-archives.com/bands/Darkthrone/146",
-    "name": "The Cult Is Alive",
-    "year": "2006",
-    "score": 71.80263157894737,
-    "actualScore": 67.05263157894737,
-    "cover": "http://www.metal-archives.com/images/1/0/2/3/102351.jpg?2614",
-    "logo": "http://www.metal-archives.com/images/1/4/6/146_logo.jpg?5918"
-  },
-  {
-    "band": "Woods of Ypres",
-    "emUrl": "http://www.metal-archives.com/bands/Woods_of_Ypres/1555",
-    "name": "Against the Seasons: Cold Winter Songs from the Dead Summer Heat",
-    "year": "2002",
-    "score": 71.69444444444444,
-    "actualScore": 69.44444444444444,
-    "cover": "http://www.metal-archives.com/images/9/6/6/4/9664.jpg?4127",
-    "logo": "http://www.metal-archives.com/images/1/5/5/5/1555_logo.jpg?4241"
-  },
-  {
-    "band": "Marduk",
-    "emUrl": "http://www.metal-archives.com/bands/Marduk/386",
-    "name": "Panzer Division Marduk",
-    "year": "1999",
-    "score": 71.67857142857143,
-    "actualScore": 66.42857142857143,
-    "cover": "http://www.metal-archives.com/images/2/9/2/5/2925.jpg?4641",
-    "logo": "http://www.metal-archives.com/images/3/8/6/386_logo.jpg?3752"
-  },
-  {
-    "band": "Weakling",
-    "emUrl": "http://www.metal-archives.com/bands/Weakling/5302",
-    "name": "Dead as Dreams",
-    "year": "2000",
-    "score": 71.66666666666667,
-    "actualScore": 68.66666666666667,
-    "cover": "http://www.metal-archives.com/images/1/3/2/0/13204.jpg",
-    "logo": "http://www.metal-archives.com/images/5/3/0/2/5302_logo.jpg?5640"
-  },
-  {
-    "band": "Ildjarn",
-    "emUrl": "http://www.metal-archives.com/bands/Ildjarn/382",
-    "name": "Forest Poetry",
-    "year": "1996",
-    "score": 71.6590909090909,
-    "actualScore": 68.9090909090909,
-    "cover": "http://www.metal-archives.com/images/2/8/4/8/2848.jpg",
-    "logo": "http://www.metal-archives.com/images/3/8/2/382_logo.gif?2518"
-  },
-  {
-    "band": "Nachtmystium",
-    "emUrl": "http://www.metal-archives.com/bands/Nachtmystium/4866",
-    "name": "Assassins: Black Meddle Pt. I",
-    "year": "2008",
-    "score": 71.41666666666667,
-    "actualScore": 68.41666666666667,
-    "cover": "http://www.metal-archives.com/images/1/8/8/3/188393.jpg?2329",
-    "logo": "http://www.metal-archives.com/images/4/8/6/6/4866_logo.jpg?0424"
-  },
-  {
-    "band": "Abigail Williams",
-    "emUrl": "http://www.metal-archives.com/bands/Abigail_Williams/73633",
-    "name": "Becoming",
-    "year": "2012",
-    "score": 71.1,
-    "actualScore": 68.6,
-    "cover": "http://www.metal-archives.com/images/3/2/2/9/322907.jpg?4854",
-    "logo": "http://www.metal-archives.com/images/7/3/6/3/73633_logo.png?1504"
-  },
-  {
-    "band": "Liturgy",
-    "emUrl": "http://www.metal-archives.com/bands/Liturgy/3540287759",
-    "name": "Renihilation",
-    "year": "2009",
-    "score": 71.02777777777777,
-    "actualScore": 68.77777777777777,
-    "cover": "http://www.metal-archives.com/images/2/4/5/5/245582.jpg",
-    "logo": "http://www.metal-archives.com/images/3/5/4/0/3540287759_logo.gif?5255"
-  },
-  {
-    "band": "Animus",
-    "emUrl": "http://www.metal-archives.com/bands/Animus/45057",
-    "name": "Poems for the Aching, Swords for the Infuriated",
-    "year": "2005",
-    "score": 71,
-    "actualScore": 69,
-    "cover": "http://www.metal-archives.com/images/8/9/9/0/89909.jpg",
-    "logo": "http://www.metal-archives.com/images/4/5/0/5/45057_logo.png?3926"
-  },
-  {
-    "band": "Behexen",
-    "emUrl": "http://www.metal-archives.com/bands/Behexen/6310",
-    "name": "My Soul for His Glory",
-    "year": "2008",
-    "score": 70.75,
-    "actualScore": 68.75,
-    "cover": "http://www.metal-archives.com/images/1/8/1/3/181375.jpg?3606",
-    "logo": "http://www.metal-archives.com/images/6/3/1/0/6310_logo.jpg?2206"
-  },
-  {
-    "band": "Abruptum",
-    "emUrl": "http://www.metal-archives.com/bands/Abruptum/1127",
-    "name": "Obscuritatem Advoco Amplectère Me",
-    "year": "1993",
-    "score": 70.5,
-    "actualScore": 68.5,
-    "cover": "http://www.metal-archives.com/images/7/0/7/8/7078.jpeg?1614",
-    "logo": "http://www.metal-archives.com/images/1/1/2/7/1127_logo.jpg"
-  },
-  {
-    "band": "Drudkh",
-    "emUrl": "http://www.metal-archives.com/bands/Drudkh/9344",
-    "name": "Пісні скорботи і самітності (Songs of Grief and Solitude)",
-    "year": "2006",
-    "score": 70.48076923076923,
-    "actualScore": 67.23076923076923,
-    "cover": "http://www.metal-archives.com/images/1/3/4/5/134500.jpg?4326",
-    "logo": "http://www.metal-archives.com/images/9/3/4/4/9344_logo.jpg?3333"
-  },
-  {
-    "band": "Summoning",
-    "emUrl": "http://www.metal-archives.com/bands/Summoning/29",
-    "name": "Lugburz",
-    "year": "1995",
-    "score": 70.13888888888889,
-    "actualScore": 67.88888888888889,
-    "cover": "http://www.metal-archives.com/images/8/6/86.jpg?2114",
-    "logo": "http://www.metal-archives.com/images/2/9/29_logo.jpg?0520"
-  },
-  {
-    "band": "Lantlôs",
-    "emUrl": "http://www.metal-archives.com/bands/Lantl%C3%B4s/118049",
-    "name": "Agape",
-    "year": "2011",
-    "score": 70.125,
-    "actualScore": 68.125,
-    "cover": "http://www.metal-archives.com/images/3/1/6/9/316912.jpg?1658",
-    "logo": "http://www.metal-archives.com/images/1/1/8/0/118049_logo.jpg?4203"
-  },
-  {
-    "band": "Satyricon",
-    "emUrl": "http://www.metal-archives.com/bands/Satyricon/341",
-    "name": "Volcano",
-    "year": "2002",
-    "score": 70.02777777777777,
-    "actualScore": 67.77777777777777,
-    "cover": "http://www.metal-archives.com/images/6/0/1/5/6015.jpg?0454",
-    "logo": "http://www.metal-archives.com/images/3/4/1/341_logo.jpg?4049"
-  },
-  {
-    "band": "Blut aus Nord",
-    "emUrl": "http://www.metal-archives.com/bands/Blut_aus_Nord/2371",
-    "name": "MoRT",
-    "year": "2006",
-    "score": 70.01923076923077,
-    "actualScore": 66.76923076923077,
-    "cover": "http://www.metal-archives.com/images/1/3/3/4/133408.jpg",
-    "logo": "http://www.metal-archives.com/images/2/3/7/1/2371_logo.gif"
-  },
-  {
-    "band": "Mayhem",
-    "emUrl": "http://www.metal-archives.com/bands/Mayhem/67",
-    "name": "Esoteric Warfare",
-    "year": "2014",
-    "score": 70.01666666666667,
-    "actualScore": 66.26666666666667,
-    "cover": "http://www.metal-archives.com/images/4/0/5/3/405335.jpg?4956",
-    "logo": "http://www.metal-archives.com/images/6/7/67_logo.png?0417"
-  },
-  {
-    "band": "Anaal Nathrakh",
-    "emUrl": "http://www.metal-archives.com/bands/Anaal_Nathrakh/1314",
-    "name": "Desideratum",
-    "year": "2014",
-    "score": 69.3,
-    "actualScore": 66.8,
-    "cover": "http://www.metal-archives.com/images/4/4/7/5/447564.jpg?5859",
-    "logo": "http://www.metal-archives.com/images/1/3/1/4/1314_logo.png?0253"
-  },
-  {
-    "band": "Dimmu Borgir",
-    "emUrl": "http://www.metal-archives.com/bands/Dimmu_Borgir/69",
-    "name": "In Sorte Diaboli",
-    "year": "2007",
-    "score": 69.20238095238095,
-    "actualScore": 63.95238095238095,
-    "cover": "http://www.metal-archives.com/images/1/4/5/0/145081.JPG",
-    "logo": "http://www.metal-archives.com/images/6/9/69_logo.jpg?0615"
-  },
-  {
-    "band": "Dimmu Borgir",
-    "emUrl": "http://www.metal-archives.com/bands/Dimmu_Borgir/69",
-    "name": "Death Cult Armageddon",
-    "year": "2003",
-    "score": 68.78571428571428,
-    "actualScore": 61.785714285714285,
-    "cover": "http://www.metal-archives.com/images/2/2/2/6/22266.jpg?2025",
-    "logo": "http://www.metal-archives.com/images/6/9/69_logo.jpg?0615"
-  },
-  {
-    "band": "Dark Funeral",
-    "emUrl": "http://www.metal-archives.com/bands/Dark_Funeral/669",
-    "name": "Attera Totus Sanctus",
-    "year": "2005",
-    "score": 68.58333333333333,
-    "actualScore": 66.33333333333333,
-    "cover": "http://www.metal-archives.com/images/8/9/8/0/89806.jpg?0340",
-    "logo": "http://www.metal-archives.com/images/6/6/9/669_logo.jpg?3403"
-  },
-  {
-    "band": "Altar of Plagues",
-    "emUrl": "http://www.metal-archives.com/bands/Altar_of_Plagues/85064",
-    "name": "Teethed Glory & Injury",
-    "year": "2013",
-    "score": 68.32692307692308,
-    "actualScore": 65.07692307692308,
-    "cover": "http://www.metal-archives.com/images/3/7/0/7/370723.jpg?1649",
-    "logo": "http://www.metal-archives.com/images/8/5/0/6/85064_logo.jpg"
-  },
-  {
-    "band": "Darkthrone",
-    "emUrl": "http://www.metal-archives.com/bands/Darkthrone/146",
-    "name": "Goatlord",
-    "year": "1996",
-    "score": 68.15,
-    "actualScore": 64.4,
-    "cover": "http://www.metal-archives.com/images/1/9/2/6/1926.jpg?2637",
-    "logo": "http://www.metal-archives.com/images/1/4/6/146_logo.jpg?5918"
-  },
-  {
-    "band": "Burzum",
-    "emUrl": "http://www.metal-archives.com/bands/Burzum/88",
-    "name": "Aske",
-    "year": "1993",
-    "score": 67.9,
-    "actualScore": 65.4,
-    "cover": "http://www.metal-archives.com/images/3/7/7/377.jpg?1432",
-    "logo": "http://www.metal-archives.com/images/8/8/88_logo.jpg?5615"
-  },
-  {
-    "band": "Drudkh",
-    "emUrl": "http://www.metal-archives.com/bands/Drudkh/9344",
-    "name": "Anti-Urban",
-    "year": "2007",
-    "score": 67.9,
-    "actualScore": 65.4,
-    "cover": "http://www.metal-archives.com/images/1/5/1/2/151291.jpg?2258",
-    "logo": "http://www.metal-archives.com/images/9/3/4/4/9344_logo.jpg?3333"
-  },
-  {
-    "band": "Keep of Kalessin",
-    "emUrl": "http://www.metal-archives.com/bands/Keep_of_Kalessin/2845",
-    "name": "Reptilian",
-    "year": "2010",
-    "score": 67.625,
-    "actualScore": 65.625,
-    "cover": "http://www.metal-archives.com/images/2/6/8/5/268534.jpg",
-    "logo": "http://www.metal-archives.com/images/2/8/4/5/2845_logo.png?5040"
-  },
-  {
-    "band": "Dimmu Borgir",
-    "emUrl": "http://www.metal-archives.com/bands/Dimmu_Borgir/69",
-    "name": "Puritanical Euphoric Misanthropia",
-    "year": "2001",
-    "score": 67.6,
-    "actualScore": 62.6,
-    "cover": "http://www.metal-archives.com/images/3/4/4/344.jpg",
-    "logo": "http://www.metal-archives.com/images/6/9/69_logo.jpg?0615"
-  },
-  {
-    "band": "Nargaroth",
-    "emUrl": "http://www.metal-archives.com/bands/Nargaroth/961",
-    "name": "Black Metal ist Krieg (A Dedication Monument)",
-    "year": "2001",
-    "score": 67.48333333333333,
-    "actualScore": 63.733333333333334,
-    "cover": "http://www.metal-archives.com/images/2/4/9/9/2499.jpg",
-    "logo": "http://www.metal-archives.com/images/9/6/1/961_logo.jpg"
-  },
-  {
-    "band": "...and Oceans",
-    "emUrl": "http://www.metal-archives.com/bands/...and_Oceans/231",
-    "name": "Cypher",
-    "year": "2002",
-    "score": 66.80555555555556,
-    "actualScore": 64.55555555555556,
-    "cover": "http://www.metal-archives.com/images/5/9/3/8/5938.jpg?3425",
-    "logo": "http://www.metal-archives.com/images/2/3/1/231_logo.jpg"
-  },
-  {
-    "band": "Deafheaven",
-    "emUrl": "http://www.metal-archives.com/bands/Deafheaven/3540315870",
-    "name": "Sunbather",
-    "year": "2013",
-    "score": 66.72999999999999,
-    "actualScore": 60.48,
-    "cover": "http://www.metal-archives.com/images/3/7/2/3/372328.jpg?1827",
-    "logo": "http://www.metal-archives.com/images/3/5/4/0/3540315870_logo.jpg?4114"
-  },
-  {
-    "band": "Dimmu Borgir",
-    "emUrl": "http://www.metal-archives.com/bands/Dimmu_Borgir/69",
-    "name": "Spiritual Black Dimensions",
-    "year": "1999",
-    "score": 66.57142857142857,
-    "actualScore": 63.07142857142857,
-    "cover": "http://www.metal-archives.com/images/3/4/2/342.jpg?1957",
-    "logo": "http://www.metal-archives.com/images/6/9/69_logo.jpg?0615"
-  },
-  {
-    "band": "Satyricon",
-    "emUrl": "http://www.metal-archives.com/bands/Satyricon/341",
-    "name": "The Age of Nero",
-    "year": "2008",
-    "score": 66.4264705882353,
-    "actualScore": 62.1764705882353,
-    "cover": "http://www.metal-archives.com/images/2/0/9/4/209435.jpg?4906",
-    "logo": "http://www.metal-archives.com/images/3/4/1/341_logo.jpg?4049"
-  },
-  {
-    "band": "Acheron",
-    "emUrl": "http://www.metal-archives.com/bands/Acheron/123",
-    "name": "Rites of the Black Mass",
-    "year": "1992",
-    "score": 66.25,
-    "actualScore": 64,
-    "cover": "http://www.metal-archives.com/images/5/7/5/575.jpg?0006",
-    "logo": "http://www.metal-archives.com/images/1/2/3/123_logo.jpg?3852"
-  },
-  {
-    "band": "Gorgoroth",
-    "emUrl": "http://www.metal-archives.com/bands/Gorgoroth/770",
-    "name": "Destroyer, or About How to Philosophize with the Hammer",
-    "year": "1998",
-    "score": 66,
-    "actualScore": 64,
-    "cover": "http://www.metal-archives.com/images/2/3/3/4/2334.jpg?0736",
-    "logo": "http://www.metal-archives.com/images/7/7/0/770_logo.jpg"
-  },
-  {
-    "band": "Darkthrone",
-    "emUrl": "http://www.metal-archives.com/bands/Darkthrone/146",
-    "name": "Plaguewielder",
-    "year": "2001",
-    "score": 65.93181818181819,
-    "actualScore": 63.18181818181818,
-    "cover": "http://www.metal-archives.com/images/1/7/2/0/1720.jpg?2547",
-    "logo": "http://www.metal-archives.com/images/1/4/6/146_logo.jpg?5918"
-  },
-  {
-    "band": "Kult ov Azazel",
-    "emUrl": "http://www.metal-archives.com/bands/Kult_ov_Azazel/1096",
-    "name": "Triumph of Fire",
-    "year": "2001",
-    "score": 64.02777777777777,
-    "actualScore": 61.77777777777778,
-    "cover": "http://www.metal-archives.com/images/3/2/7/2/3272.jpg?1759",
-    "logo": "http://www.metal-archives.com/images/1/0/9/6/1096_logo.jpg"
-  },
-  {
-    "band": "Satyricon",
-    "emUrl": "http://www.metal-archives.com/bands/Satyricon/341",
-    "name": "Satyricon",
-    "year": "2013",
-    "score": 63.55555555555556,
-    "actualScore": 59.05555555555556,
-    "cover": "http://www.metal-archives.com/images/3/8/3/9/383927.jpg?4115",
-    "logo": "http://www.metal-archives.com/images/3/4/1/341_logo.jpg?4049"
-  },
-  {
-    "band": "Woods of Ypres",
-    "emUrl": "http://www.metal-archives.com/bands/Woods_of_Ypres/1555",
-    "name": "W4: The Green Album",
-    "year": "2009",
-    "score": 62.375,
-    "actualScore": 60.375,
-    "cover": "http://www.metal-archives.com/images/2/5/5/1/255174.jpg?0243",
-    "logo": "http://www.metal-archives.com/images/1/5/5/5/1555_logo.jpg?4241"
-  },
-  {
-    "band": "Cradle of Filth",
-    "emUrl": "http://www.metal-archives.com/bands/Cradle_of_Filth/24",
-    "name": "Thornography",
-    "year": "2006",
-    "score": 60.85526315789474,
-    "actualScore": 56.10526315789474,
-    "cover": "http://www.metal-archives.com/images/1/2/6/8/126857.jpg?2247",
-    "logo": "http://www.metal-archives.com/images/2/4/24_logo.png?5007"
-  },
-  {
-    "band": "Nattefrost",
-    "emUrl": "http://www.metal-archives.com/bands/Nattefrost/11288",
-    "name": "Terrorist (Nekronaut Pt. I)",
-    "year": "2005",
-    "score": 60.583333333333336,
-    "actualScore": 58.333333333333336,
-    "cover": "http://www.metal-archives.com/images/8/3/6/9/83695.jpg?0814",
-    "logo": "http://www.metal-archives.com/images/1/1/2/8/11288_logo.jpg"
-  },
-  {
-    "band": "1349",
-    "emUrl": "http://www.metal-archives.com/bands/1349/5575",
-    "name": "Revelations of the Black Flame",
-    "year": "2009",
-    "score": 60.27777777777778,
-    "actualScore": 55.77777777777778,
-    "cover": "http://www.metal-archives.com/images/2/3/1/2/231252.jpg?4108",
-    "logo": "http://www.metal-archives.com/images/5/5/7/5/5575_logo.png?3135"
-  },
-  {
-    "band": "Dimmu Borgir",
-    "emUrl": "http://www.metal-archives.com/bands/Dimmu_Borgir/69",
-    "name": "Gateways",
-    "year": "2010",
-    "score": 59.916666666666664,
-    "actualScore": 56.916666666666664,
-    "cover": "http://www.metal-archives.com/images/2/8/1/6/281693.jpg",
-    "logo": "http://www.metal-archives.com/images/6/9/69_logo.jpg?0615"
-  },
-  {
-    "band": "Satyricon",
-    "emUrl": "http://www.metal-archives.com/bands/Satyricon/341",
-    "name": "Rebel Extravaganza",
-    "year": "1999",
-    "score": 59.75,
-    "actualScore": 57.75,
-    "cover": "http://www.metal-archives.com/images/1/3/0/1/1301.jpg",
-    "logo": "http://www.metal-archives.com/images/3/4/1/341_logo.jpg?4049"
-  },
-  {
-    "band": "Watain",
-    "emUrl": "http://www.metal-archives.com/bands/Watain/5173",
-    "name": "The Wild Hunt",
-    "year": "2013",
-    "score": 58.8,
-    "actualScore": 56.3,
-    "cover": "http://www.metal-archives.com/images/3/7/9/2/379207.jpg?3555",
-    "logo": "http://www.metal-archives.com/images/5/1/7/3/5173_logo.gif?1931"
-  },
-  {
-    "band": "Cradle of Filth",
-    "emUrl": "http://www.metal-archives.com/bands/Cradle_of_Filth/24",
-    "name": "Nymphetamine",
-    "year": "2004",
-    "score": 58.642857142857146,
-    "actualScore": 55.142857142857146,
-    "cover": "http://www.metal-archives.com/images/5/2/8/6/52863.JPG",
-    "logo": "http://www.metal-archives.com/images/2/4/24_logo.png?5007"
-  },
-  {
-    "band": "Xasthur",
-    "emUrl": "http://www.metal-archives.com/bands/Xasthur/4936",
-    "name": "Portal of Sorrow",
-    "year": "2010",
-    "score": 56.375,
-    "actualScore": 54.375,
-    "cover": "http://www.metal-archives.com/images/2/6/9/6/269609.jpg?2325",
-    "logo": "http://www.metal-archives.com/images/4/9/3/6/4936_logo.jpg?4634"
-  },
-  {
-    "band": "Liturgy",
-    "emUrl": "http://www.metal-archives.com/bands/Liturgy/3540287759",
-    "name": "Aesthethica",
-    "year": "2011",
-    "score": 52.666666666666664,
-    "actualScore": 49.666666666666664,
-    "cover": "http://www.metal-archives.com/images/2/9/8/1/298175.jpg",
-    "logo": "http://www.metal-archives.com/images/3/5/4/0/3540287759_logo.gif?5255"
-  },
-  {
-    "band": "Dimmu Borgir",
-    "emUrl": "http://www.metal-archives.com/bands/Dimmu_Borgir/69",
-    "name": "Abrahadabra",
-    "year": "2010",
-    "score": 51.880434782608695,
-    "actualScore": 46.130434782608695,
-    "cover": "http://www.metal-archives.com/images/2/8/1/8/281836.jpg",
-    "logo": "http://www.metal-archives.com/images/6/9/69_logo.jpg?0615"
-  },
-  {
-    "band": "Dissection",
-    "emUrl": "http://www.metal-archives.com/bands/Dissection/183",
-    "name": "Maha Kali",
-    "year": "2004",
-    "score": 51.833333333333336,
-    "actualScore": 48.833333333333336,
-    "cover": "http://www.metal-archives.com/images/6/2/6/9/62697.jpg?2804",
-    "logo": "http://www.metal-archives.com/images/1/8/3/183_logo.jpg?3816"
-  },
-  {
-    "band": "Burzum",
-    "emUrl": "http://www.metal-archives.com/bands/Burzum/88",
-    "name": "Dauði Baldrs",
-    "year": "1997",
-    "score": 45.69736842105263,
-    "actualScore": 40.94736842105263,
-    "cover": "http://www.metal-archives.com/images/3/8/3/383.jpg?1743",
-    "logo": "http://www.metal-archives.com/images/8/8/88_logo.jpg?5615"
-  },
-  {
-    "band": "Myrkur",
-    "emUrl": "http://www.metal-archives.com/bands/Myrkur/3540386032",
-    "name": "M",
-    "year": "2015",
-    "score": 43,
-    "actualScore": 39.5,
-    "cover": "http://www.metal-archives.com/images/5/1/4/7/514764.jpg?2218",
-    "logo": "http://www.metal-archives.com/images/3/5/4/0/3540386032_logo.jpg?0322"
-  },
-  {
-    "band": "Ancient",
-    "emUrl": "http://www.metal-archives.com/bands/Ancient/772",
-    "name": "Mad Grandiose Bloodfiends",
-    "year": "1997",
-    "score": 41.69444444444444,
-    "actualScore": 39.44444444444444,
-    "cover": "http://www.metal-archives.com/images/8/1/3/6/8136.jpg?5154",
-    "logo": "http://www.metal-archives.com/images/7/7/2/772_logo.gif"
-  },
-  {
-    "band": "Mayhem",
-    "emUrl": "http://www.metal-archives.com/bands/Mayhem/67",
-    "name": "Pure Fucking Armageddon",
-    "year": "1986",
-    "score": 39.75,
-    "actualScore": 36.75,
-    "cover": "http://www.metal-archives.com/images/5/0/1/2/50127.jpg",
-    "logo": "http://www.metal-archives.com/images/6/7/67_logo.png?0417"
-  },
-  {
-    "band": "Gorgoroth",
-    "emUrl": "http://www.metal-archives.com/bands/Gorgoroth/770",
-    "name": "Under the Sign of Hell 2011",
-    "year": "2011",
-    "score": 39.11363636363637,
-    "actualScore": 36.36363636363637,
-    "cover": "http://www.metal-archives.com/images/3/2/2/5/322597.jpg?0628",
-    "logo": "http://www.metal-archives.com/images/7/7/0/770_logo.jpg"
-  },
-  {
-    "band": "Von",
-    "emUrl": "http://www.metal-archives.com/bands/Von/2302",
-    "name": "Satanic Blood",
-    "year": "1992",
-    "score": 36.1,
-    "actualScore": 33.6,
-    "cover": "http://www.metal-archives.com/images/9/4/4/3/9443.jpg",
-    "logo": "http://www.metal-archives.com/images/2/3/0/2/2302_logo.jpg?0948"
-  },
-  {
-    "band": "Rainfall",
-    "emUrl": "http://www.metal-archives.com/bands/Rainfall/90364",
-    "name": "Autumn One",
-    "year": "2007",
-    "score": 34.38636363636364,
-    "actualScore": 31.636363636363637,
-    "cover": "http://www.metal-archives.com/images/1/5/0/0/150071.jpg",
-    "logo": "http://www.metal-archives.com/images/9/0/3/6/90364_logo.jpg?3331"
-  },
-  {
-    "band": "Celtic Frost",
-    "emUrl": "http://www.metal-archives.com/bands/Celtic_Frost/269",
-    "name": "Cold Lake",
-    "year": "1988",
-    "score": 31.875,
-    "actualScore": 29.875,
-    "cover": "http://www.metal-archives.com/images/3/0/5/2/3052.jpg?3809",
-    "logo": "http://www.metal-archives.com/images/2/6/9/269_logo.jpg?2546"
-  },
-  {
-    "band": "Rainfall",
-    "emUrl": "http://www.metal-archives.com/bands/Rainfall/90364",
-    "name": "Arboreal Eternity",
-    "year": "2007",
-    "score": 27.5,
-    "actualScore": 25.5,
-    "cover": "http://www.metal-archives.com/images/1/5/4/8/154842.jpg",
-    "logo": "http://www.metal-archives.com/images/9/0/3/6/90364_logo.jpg?3331"
   }
 ]
