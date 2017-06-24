@@ -4,9 +4,9 @@ html(lang='en')
     title= title
     meta(charset='utf-8')
     meta(name='viewport' content='width=device-width, initial-scale=1.0')
-    link(href='/style.css' rel='stylesheet')
+    link(href='style.css' rel='stylesheet')
   body
-    h1: a(href='/', title=title)= title
+    h1: a(href='.', title=title)= title
 
     .albums
       each album in albums
@@ -15,7 +15,7 @@ html(lang='en')
           title=album.band + ' — ' + album.name
           href='https://www.youtube.com/results?search_query=' +
           album.band + ' ' + album.name + ' full album'
-          style='background-image: url("/covers.jpg");' +
+          style='background-image: url("covers.jpg");' +
           'background-position: -' + album.coords.x + 'px -' +
           album.coords.y + 'px'
         )
