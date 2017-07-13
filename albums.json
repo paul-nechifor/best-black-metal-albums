@@ -679,14 +679,6 @@
     "cover": "http://www.metal-archives.com/images/2/4/1/241.jpg?1241",
     "logo": "http://www.metal-archives.com/images/7/5/75_logo.jpg?2757"
   },
-
-
-
-
-
-
-
-
   {
     "band": "Belphegor",
     "emUrl": "http://www.metal-archives.com/bands/Belphegor/1952",
@@ -718,16 +710,6 @@
     "logo": "http://www.metal-archives.com/images/3/9/2/392_logo.jpg?3557"
   },
   {
-    "band": "Alcest",
-    "emUrl": "http://www.metal-archives.com/bands/Alcest/19701",
-    "name": "Écailles de lune",
-    "year": "2010",
-    "score": 90.71428571428571,
-    "actualScore": 87.21428571428571,
-    "cover": "http://www.metal-archives.com/images/2/6/2/9/262974.jpg?2149",
-    "logo": "http://www.metal-archives.com/images/1/9/7/0/19701_logo.jpg?2035"
-  },
-  {
     "band": "Mütiilation",
     "emUrl": "http://www.metal-archives.com/bands/M%C3%BCtiilation/905",
     "name": "Remains of a Ruined, Dead, Cursed Soul",
@@ -746,16 +728,6 @@
     "actualScore": 88.5,
     "cover": "http://www.metal-archives.com/images/1/5/3/0/153007.jpg",
     "logo": "http://www.metal-archives.com/images/5/7/0/8/5708_logo.jpg?2441"
-  },
-  {
-    "band": "Triptykon",
-    "emUrl": "http://www.metal-archives.com/bands/Triptykon/3540303132",
-    "name": "Melana Chasmata",
-    "year": "2014",
-    "score": 90.375,
-    "actualScore": 88.375,
-    "cover": "http://www.metal-archives.com/images/4/0/1/8/401884.jpg?4250",
-    "logo": "http://www.metal-archives.com/images/3/5/4/0/3540303132_logo.png?4049"
   },
   {
     "band": "1349",
@@ -826,16 +798,6 @@
     "actualScore": 86.66666666666667,
     "cover": "http://www.metal-archives.com/images/2/8/9/3/289387.jpg",
     "logo": "http://www.metal-archives.com/images/6/6/6/5/6665_logo.jpg?2547"
-  },
-  {
-    "band": "Behemoth",
-    "emUrl": "http://www.metal-archives.com/bands/Behemoth/263",
-    "name": "The Apostasy",
-    "year": "2007",
-    "score": 89.54411764705883,
-    "actualScore": 85.29411764705883,
-    "cover": "http://www.metal-archives.com/images/1/5/3/9/153926.jpg?4205",
-    "logo": "http://www.metal-archives.com/images/2/6/3/263_logo.jpg?4126"
   },
   {
     "band": "Marduk",
@@ -930,7 +892,7 @@
   {
     "band": "Drudkh",
     "emUrl": "http://www.metal-archives.com/bands/Drudkh/9344",
-    "name": "Кров у наших криницях (Blood in Our Wells)",
+    "name": "Blood in Our Wells",
     "year": "2006",
     "score": 88.92857142857143,
     "actualScore": 85.42857142857143,
@@ -948,16 +910,6 @@
     "logo": "http://www.metal-archives.com/images/9/3/4/4/9344_logo.jpg?3333"
   },
   {
-    "band": "Moonsorrow",
-    "emUrl": "http://www.metal-archives.com/bands/Moonsorrow/89",
-    "name": "Varjoina kuljemme kuolleiden maassa",
-    "year": "2011",
-    "score": 88.8409090909091,
-    "actualScore": 86.0909090909091,
-    "cover": "http://www.metal-archives.com/images/2/9/4/4/294425.jpg?4847",
-    "logo": "http://www.metal-archives.com/images/8/9/89_logo.jpg"
-  },
-  {
     "band": "Thy Light",
     "emUrl": "http://www.metal-archives.com/bands/Thy_Light/36147",
     "name": "Suici.De.pression",
@@ -967,6 +919,28 @@
     "cover": "http://www.metal-archives.com/images/1/6/5/2/165258.jpg",
     "logo": "http://www.metal-archives.com/images/3/6/1/4/36147_logo.gif"
   },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   {
     "band": "Gris",
     "emUrl": "http://www.metal-archives.com/bands/Gris/101968",
