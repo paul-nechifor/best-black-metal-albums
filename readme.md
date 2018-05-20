@@ -9,19 +9,19 @@ The list was created with [Best Metal Albums][bma].
 
 Install the requirements:
 
-    npm i
+    yarn
 
 Get the album covers:
 
-    npm run get-covers
+    yarn get-covers
 
 Build everything:
 
-    npm run build
+    yarn build
 
 Build, serve content, watch and rebuild:
 
-    npm start
+    yarn start
 
 ## TODO
 
