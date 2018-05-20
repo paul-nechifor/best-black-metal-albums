@@ -5,6 +5,8 @@ Metallum][em].
 
 The list was created with [Best Metal Albums][bma].
 
+![Best Black Metal Albums screenshot](screenshot.png)
+
 ## Usage
 
 Install the requirements:
