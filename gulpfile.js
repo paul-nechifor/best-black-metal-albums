@@ -8,7 +8,6 @@ var path = require('path');
 var pug = require('gulp-pug');
 var request = require('throttled-request')(require('request'));
 var stringToStream = require('string-to-stream');
-var stylus = require('gulp-stylus');
 var webserver = require('gulp-webserver');
 
 request.configure({requests: 5, milliseconds: 1000});
@@ -18,11 +17,10 @@ var coversFile = path.resolve(__dirname, 'covers.json');
 
 gulp.task('default', ['build', 'webserver', 'watch']);
 
-gulp.task('build', ['html', 'style', 'title']);
+gulp.task('build', ['html', 'title']);
 
 gulp.task('watch', function () {
   gulp.watch('index.pug', ['html']);
-  gulp.watch('style.styl', ['style']);
 });
 
 gulp.task('html', function () {
@@ -31,12 +29,6 @@ gulp.task('html', function () {
     title: 'Best Black Metal Albums',
     albums: getAlbums(),
   }}))
-  .pipe(gulp.dest('build'));
-});
-
-gulp.task('style', function () {
-  return gulp.src('style.styl')
-  .pipe(stylus({compress: true}))
   .pipe(gulp.dest('build'));
 });
 
