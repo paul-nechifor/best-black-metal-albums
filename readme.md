@@ -1,3 +1,7 @@
+# This repository has been moved to [gitlab.com/paul-nechifor/best-black-metal-albums](http://gitlab.com/paul-nechifor/best-black-metal-albums).
+
+Old readme:
+
 # Best Black Metal Albums
 
 A page listing possibly the best black metal albums based on [Encyclopædia
